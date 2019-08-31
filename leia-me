@@ -1,0 +1,4 @@
+Instalar dependências node para poder rodar as aplicações
+
+rodar frontend react com yarn start
+rodar backend node com node /src/server.js
